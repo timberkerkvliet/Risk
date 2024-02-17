@@ -1,0 +1,1 @@
+jar cvfm OnlineRiskVI.jar manifest.mft *.class gamebasics/*.class data/*.*
